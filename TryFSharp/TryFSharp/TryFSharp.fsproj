@@ -50,8 +50,9 @@
   </Target>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="PortableLibrary1.fs" />
-    <None Include="Script.fsx" />
+    <Compile Include="Bmp.fs" />
+    <Compile Include="TryFSharpPage.fs" />
+    <EmbeddedResource Include="TryFSharpPage.xaml" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
