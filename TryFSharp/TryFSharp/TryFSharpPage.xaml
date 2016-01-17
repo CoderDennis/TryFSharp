@@ -10,6 +10,8 @@
     <Image x:Name="image"
            VerticalOptions="FillAndExpand" />
     
+    <ProgressBar x:Name="progressBar" />
+    
     <Button Text="Calculate"
             HorizontalOptions="Center"
             Clicked="OnCalculateButtonClicked" />

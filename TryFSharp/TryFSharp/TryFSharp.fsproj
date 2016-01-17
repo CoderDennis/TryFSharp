@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Bmp.fs" />
+    <Compile Include="Complex.fs" />
     <Compile Include="TryFSharpPage.fs" />
     <EmbeddedResource Include="TryFSharpPage.xaml" />
     <Content Include="packages.config" />
